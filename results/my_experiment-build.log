@@ -1,0 +1,54 @@
+[1/18] Creating testsuite runner at /workspace/service/build-release/runtests-service
+[2/18] Running gRPC C++ protocol buffer compiler for /workspace/service/proto
+[3/18] Building CXX object CMakeFiles/service_objs.dir/src/greeting.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[4/18] Building CXX object CMakeFiles/service_objs.dir/src/hello.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[5/18] Building CXX object CMakeFiles/service_objs.dir/src/hello_mongo.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[6/18] Building CXX object CMakeFiles/service_proto.dir/proto/handlers/hello.pb.cc.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[7/18] Building CXX object CMakeFiles/service_objs.dir/src/hello_postgres.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[8/18] Building CXX object CMakeFiles/service_objs.dir/src/hello_grpc.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[9/18] Building CXX object CMakeFiles/service_proto.dir/proto/handlers/hello.grpc.pb.cc.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[10/18] Building CXX object CMakeFiles/service_unittest.dir/src/greeting_test.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[11/18] Building CXX object CMakeFiles/service_benchmark.dir/src/greeting_benchmark.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[12/18] Building CXX object CMakeFiles/service_proto.dir/proto/handlers/hello_service.usrv.pb.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[13/18] Building CXX object CMakeFiles/service_proto.dir/proto/handlers/hello_client.usrv.pb.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[14/18] Linking CXX static library libservice_proto.a
+[15/18] Building CXX object CMakeFiles/service.dir/src/main.cpp.o
+warning: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-useless-cast' [-Wunknown-warning-option]
+2 warnings generated.
+[16/18] Linking CXX executable service_benchmark
+[17/18] Linking CXX executable service_unittest
+[18/18] Linking CXX executable service
